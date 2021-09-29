@@ -1,16 +1,49 @@
-### Hi there 👋
+## Hello World! 👋
+[![Linkedin Badge](https://img.shields.io/badge/-PabloButron-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablobutron/)](https://www.linkedin.com/in/pablobutron/) 
+[![Gmail Badge](https://img.shields.io/badge/-PabloButron-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lizardlabs@icloud.com)](mailto:lizardlabs@icloud.com)
 
-<!--
-**PabloButron/PabloButron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🎓 I'm a rising junior iOS Developer
+- 🌱 I’m currently learning IT Support
+- 🏊🏻‍♂️ I love swimming
+- 👨‍🔬 Biologist
+ 
+ 
+ 
+ 
+<p align="center"> 
+        
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  
+    
+   <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>  
+      
+  <a href="https://swift.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  </a> 
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=PabloButron&count_private=true&theme=tokyonight&show_icons=true&hide=stars,issues&hide_border=true" />
+  </a>
+  
+  </a>
+ </p>
+ 
+ ##### Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white)
+![XCode](https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
