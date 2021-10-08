@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=PabloButron&count_private=true&theme=tokyonight&show_icons=true&hide=stars,issues&hide_border=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=PabloButron&count_public=true&theme=tokyonight&show_icons=true&hide=stars,issues&hide_border=true" />
   </a>
   
   </a>
