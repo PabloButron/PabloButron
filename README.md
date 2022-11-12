@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-PabloButron-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pabloamar@icloud.com)](mailto:pabloamar@icloud.com)
 
 
-- 🎓 I'm a rising junior iOS Developer
+- 🎓 iOS Developer
 - 🌱 I’m currently learning IT Support
 - 🏊🏻‍♂️ I love swimming
 - 👨‍🔬 Biologist
