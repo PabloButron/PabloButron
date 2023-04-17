@@ -10,33 +10,14 @@
 - 🏊🏻‍♂️ I love swimming
 
 - 👨‍🔬 Biologist
- 
- 
- 
- 
-<p align="center"> 
-        
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  
-    
-   <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>  
-      
-  <a href="https://swift.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  </a> 
-  
-</p>
+
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PabloButron&count_public=true&theme=tokyonight&show_icons=true&hide=stars,issues&hide_border=true" />
-  </a>
+
   
-  </a>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloButron&count_private=true&show_icons=true&hide=stars,issues&hide_border=true)
+
+
  </p>
  
  ##### Some of the technologies I have worked with
