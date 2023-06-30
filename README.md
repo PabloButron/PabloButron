@@ -15,7 +15,7 @@
 <p align="center">
 
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloButron&count_private=true&show_icons=true&hide=stars,issues&hide_border=true&theme=transparent)
+ ![Anurag's GitHub stats](https://github-readme-stats-peach-pi-94.vercel.app/api?theme=transparent&count_private=true&username=PabloButron&show_icons=true&hide=contribs,prs&rank_icon=github)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloButron)](https://github.com/anuraghazra/github-readme-stats)
 
 
